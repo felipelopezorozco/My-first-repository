@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @felipelopezorozco
 - 👀 I’m interested in data science to better my skins in ecology
 - 🌱 I’m currently learning the data scientist's toolbox on coursera
-- 💞️ I’m looking to collaborate on porjects related with ecology
+- 💞️ I’m looking to collaborate on projects that are related with ecology
 - 📫 How to reach me, lopezo.felipe@uces.edu.co
 
 <!---
